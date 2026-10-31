@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>ye ra labbey</h1>
-    <p>Python and Flask.</p>
+    <p>Python and fosksk.</p>
     """
 
 if __name__ == "__main__":
